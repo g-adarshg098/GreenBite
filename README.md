@@ -1,4 +1,4 @@
-# Greenary Vegetable Food Delivery App (UI/UX)
+# Greenbite  Food Delivery App (UI/UX)
 
 Greenbite is a designed UI/UX prototype for a food delivery app aimed at vegetable lovers. The focus is on providing an intuitive and attractive interface for users to browse, select, and order fresh vegetables effortlessly. This project showcases the user experience and visual design for a seamless online vegetable shopping experience.
 
